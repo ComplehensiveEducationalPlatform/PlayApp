@@ -17,5 +17,10 @@ addSbtPlugin("org.irundaia.sbt" % "sbt-sassify" % "1.4.6")
 addSbtPlugin("com.typesafe.sbt" % "sbt-play-enhancer" % "1.1.0")
 
 // Play Ebean support, to enable, uncomment this line, and enable in your build.sbt using
+<<<<<<< HEAD
 //enablePlugins(PlayEbean).
 //addSbtPlugin("com.typesafe.sbt" % "sbt-play-ebean" % "3.0.2")
+=======
+// enablePlugins(PlayEbean).
+// addSbtPlugin("com.typesafe.sbt" % "sbt-play-ebean" % "3.0.2")
+>>>>>>> 0695af9fc3c6bdd4ff6454f8ead6ba554142c267
