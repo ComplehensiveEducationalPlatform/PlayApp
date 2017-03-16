@@ -1,4 +1,4 @@
-package models;
+package Models.entity;
 
 import com.avaje.ebean.Model;
 import com.avaje.ebean.annotation.CreatedTimestamp;
