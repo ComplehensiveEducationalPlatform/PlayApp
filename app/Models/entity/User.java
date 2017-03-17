@@ -2,13 +2,15 @@ package Models.entity;
 
 import com.avaje.ebean.Model;
 import com.avaje.ebean.annotation.CreatedTimestamp;
+import com.stripe.model.Customer;
 import org.hibernate.validator.constraints.Email;
 
 import javax.persistence.*;
 import javax.validation.constraints.NotNull;
 import java.util.Date;
 import java.util.List;
-import Models.entity.models.*;
+
+import Models.entity.*;
 
 
 /**
